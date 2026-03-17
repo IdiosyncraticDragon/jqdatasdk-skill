@@ -14,8 +14,8 @@
 
 | 项目 | 路径 | 说明 |
 |------|------|------|
-| 官方 jqdatasdk | `D:\project\jqdatasdk` | 官方 Python SDK 源码 |
-| 类型定义 | `D:\project\joinquant_api` | 第三方 API 类型定义 |
+| 官方 jqdatasdk | `https://github.com/JoinQuant/jqdatasdk.git` | 官方 Python SDK 源码 |
+| 类型定义 | `https://github.com/stairclimber/joinquant_api.git` | 第三方 API 类型定义 |
 
 ## 功能特性
 
